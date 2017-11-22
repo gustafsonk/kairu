@@ -1,0 +1,1 @@
+bin\halite -d "240 160" -q -i "log" "bin\kairu" "bin\kairu"
